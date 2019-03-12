@@ -1,0 +1,13 @@
+{
+  "name": "server_pomelo",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "pomelo start"
+  },
+  "dependencies": {
+    "knex": "^0.13.0",
+    "mysql2": "^1.4.2",
+    "pomelo": "2.2.5"
+  }
+}

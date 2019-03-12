@@ -1,0 +1,18 @@
+{
+	"development": {
+		"connectionLimit": 10,
+		"host": "127.0.0.1",
+		"port": "3306",
+		"database": "db_babykylin",
+		"user": "root",
+		"password": "root"
+	},
+	"production": {
+		"connectionLimit": 10,
+		"host": "127.0.0.1",
+		"port": "3306",
+		"database": "db_babykylin",
+		"user": "root",
+		"password": "root"
+	}
+}
